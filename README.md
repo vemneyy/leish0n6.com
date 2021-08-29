@@ -1,4 +1,4 @@
-### leish0n6.com
+# leish0n6.com
 
 **EN: This repository includes all the css, html, and php files used on the site: [leish0n6.com](https://leish0n6.coml)**
 
