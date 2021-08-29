@@ -6,7 +6,7 @@
         'https://leish0n6.com/forest',
         'https://leish0n6.com/newyork',
         'https://leish0n6.com/losangeles',
-        'https://leish0n6.com/santamonica'
+        'https://leish0n6.com/deathvalley'
     );
     
    
